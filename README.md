@@ -11,8 +11,10 @@ In order to use the provided files you need to download and install the followin
 - PureData environment: https://puredata.info/
 - TouchOSC (App and Layout Editor): https://hexler.net/software/touchosc
 
-After having these dependencies installed, open the file "stereo_sampler.pd" with PureData and load the "TouchOSC - Layout.touchosc" file into the OSC enabled device of your choice. You are all set, make some noise! 
-
+After having these dependencies installed, open the file "stereo_sampler.pd" with PureData and load the "TouchOSC - Layout.touchosc" file into the OSC enabled device of your choice. 
+````
+You are all set, make some noise! 
+````
 ## Main functionalities
 
 The sampler includes the following functionalities, all implemented in the PureData patch and inspired from classic audio devices such as digital samplers, keyboards or turntables. 
@@ -29,8 +31,6 @@ The sampler includes the following functionalities, all implemented in the PureD
 ## Demo video
 
 Watch a demo of this project on YouTube: https://www.youtube.com/watch?v=9eUL0dMxHG8.
-
-### "Touch OSC Sampler in PD - Héctor Martel Baro"
 
 [![Touch OSC Sampler in PD - Héctor Martel Baro](https://img.youtube.com/vi/9eUL0dMxHG8/0.jpg)](https://www.youtube.com/watch?v=9eUL0dMxHG8)
 
